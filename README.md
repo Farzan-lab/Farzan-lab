@@ -17,6 +17,7 @@ My name is Farzan momayezi.
 [![](https://img.shields.io/badge/-mongodb-orange?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-css-orange?style=for-the-badge&logo=css)](https://www.w3.org/TR/CSS/#css)
 [![](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
 
 
 ### Contact me:
