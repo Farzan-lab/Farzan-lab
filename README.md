@@ -9,7 +9,7 @@ I am passionate about analyzing data, building predictive models, and creating i
 
 ### 📊 GitHub Stats
 
-[![Farzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=radium&hide_border=true)](https://github.com/Farzan-lab)
+[![Farzan's GitHub stats](https://github.com/Farzan-lab/Farzan-lab.git)
 
 [![Top Langs](https://vercel.com/farzan-labs-projects/github-readme-stats/BvkobUt3sSu7s3cBbRGDVBQCr7tC)
 
