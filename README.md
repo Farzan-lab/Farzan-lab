@@ -9,11 +9,9 @@ I am passionate about analyzing data, building predictive models, and creating i
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Farzan-lab">
-    <img src="https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=monokai&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Farzan Momayezi's GitHub stats" />
-  </a>
-</p>
+[![Farzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=radium&hide_border=true)](https://github.com/Farzan-lab)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzan-lab&layout=compact&theme=radium&hide_border=true)](https://github.com/Farzan-lab)
 
 ---
 
