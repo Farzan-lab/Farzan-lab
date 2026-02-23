@@ -11,7 +11,7 @@ I am passionate about analyzing data, building predictive models, and creating i
 
 [![Farzan's GitHub stats](https://github.com/Farzan-lab/Farzan-lab.git)
 
-[![Top Langs](https://vercel.com/farzan-labs-projects/github-readme-stats/BvkobUt3sSu7s3cBbRGDVBQCr7tC)
+[![Top Langs]([https://vercel.com/farzan-labs-projects/github-readme-stats/BvkobUt3sSu7s3cBbRGDVBQCr7tC](https://vercel.com/farzan-labs-projects/github-readme-stats/BvkobUt3sSu7s3cBbRGDVBQCr7tC))
 
 ---
 
