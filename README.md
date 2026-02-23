@@ -1,25 +1,54 @@
-﻿# Hello World!
+# 🚀 Welcome to my digital workspace! 
 
-Hello World 😃
-My name is Farzan momayezi.
+**"Where complex data turns into actionable insights, and ideas transform into code."**
 
+Hello World! 😃 👋 I'm **Farzan Momayezi**. 
+I am passionate about analyzing data, building predictive models, and creating interactive dashboards to solve real-world problems. Welcome to my GitHub profile, where I showcase my journey and projects in Data Science and Business Intelligence.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=monokai" alt="Farzan momayezi's GitHub stats" />
+  <a href="https://github.com/Farzan-lab">
+    <img src="https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=monokai&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="Farzan Momayezi's GitHub stats" />
+  </a>
 </p>
 
-## Languages & Technologies
+---
 
-[![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
-[![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
-[![](https://img.shields.io/badge/-django-orange?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
-[![](https://img.shields.io/badge/-PostgreSQL-orange?style=for-the-badge&logo=PostgreSQL)](postgresql.org)
-[![](https://img.shields.io/badge/-mongodb-orange?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/-css-orange?style=for-the-badge&logo=css)](https://www.w3.org/TR/CSS/#css)
-[![](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html)](https://html.spec.whatwg.org/)
-[![](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java)](https://www.oracle.com/java/)
+### 🛠️ Languages & Technologies
 
+Here are the tools and technologies I use to bring ideas to life:
 
-### Contact me:
+**Data Analysis & Visualization:**
+<br>
+[![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
+[![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+[![](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 
-[![](https://img.shields.io/badge/-farzanmomayezi@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:farzanmomayezi@gmail.com)
+**Databases & Cloud Data Warehouses:**
+<br>
+[![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+
+**Programming & Advanced Analytics:**
+<br>
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![](https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+
+---
+
+### 🌱 Currently Working On
+
+* Building **Ready-to-Job Data Pipelines** integrating Excel, BigQuery, and Power BI.
+* Exploring advanced feature engineering and data storytelling techniques.
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out for collaborations, project discussions, or just to say hi!
+
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzanmomayezi@gmail.com)
