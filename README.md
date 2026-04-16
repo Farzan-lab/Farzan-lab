@@ -51,5 +51,5 @@ Here are the tools and technologies I use to bring ideas to life:
 
 Feel free to reach out for collaborations, project discussions, or just to say hi!
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzan-momayezi-3618aa206)
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzanmomayezi@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzanmomayezi/)
