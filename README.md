@@ -1,8 +1,8 @@
-# 🚀 Welcome to my digital workspace! 
+# 🚀 Welcome to my digital workspace! 
 
 **"Where complex data turns into actionable insights, and ideas transform into code."**
 
-Hello World! 😃 👋 I'm **Farzan Momayezi**. 
+Hello World! 😃 👋 I'm **Farzan Momayezi**. 
 I am passionate about analyzing data, building predictive models, and creating interactive dashboards to solve real-world problems. Welcome to my GitHub profile, where I showcase my journey and projects in Data Science and Business Intelligence.
 
 ---
@@ -21,8 +21,9 @@ Here are the tools and technologies I use to bring ideas to life:
 <br>
 [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
 [![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](#)
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
+[![](https://img.shields.io/badge/R_Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](#)
+[![](https://img.shields.io/badge/Leaflet-199903?style=for-the-badge&logo=leaflet&logoColor=white)](#)
 
 **Databases & Automation:**
 <br>
@@ -33,7 +34,7 @@ Here are the tools and technologies I use to bring ideas to life:
 **Programming & Advanced Analytics:**
 <br>
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![](https://img.shields.io/badge/Statistical_Modeling-005A9C?style=for-the-badge&logo=google-analytics&logoColor=white)](#)
+[![](https://img.shields.io/badge/Statistical_Analysis-005A9C?style=for-the-badge&logo=r&logoColor=white)](#)
 [![](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![](https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
@@ -42,8 +43,8 @@ Here are the tools and technologies I use to bring ideas to life:
 ### 🌱 Currently Working On
 
 * Building **Ready-to-Job Data Pipelines** integrating Excel, BigQuery, and Power BI.
-* Developing interactive **R Shiny** dashboards for ecological and infrastructure data.
-* Exploring advanced feature engineering and statistical storytelling techniques.
+* Developing interactive **R Shiny** & **Leaflet** dashboards for geospatial and infrastructure data.
+* Applying advanced **Statistical Analysis** to uncover hidden patterns in energy and environmental datasets.
 
 ---
 
