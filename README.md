@@ -35,6 +35,7 @@ Here are the tools and technologies I use to bring ideas to life:
 <br>
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![](https://img.shields.io/badge/Statistical_Analysis-005A9C?style=for-the-badge&logo=r&logoColor=white)](#)
+[![](https://img.shields.io/badge/Statistical_Modeling-F37021?style=for-the-badge&logo=rstudio&logoColor=white)](#)
 [![](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 [![](https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
 
@@ -44,7 +45,7 @@ Here are the tools and technologies I use to bring ideas to life:
 
 * Building **Ready-to-Job Data Pipelines** integrating Excel, BigQuery, and Power BI.
 * Developing interactive **R Shiny** & **Leaflet** dashboards for geospatial and infrastructure data.
-* Applying advanced **Statistical Analysis** to uncover hidden patterns in energy and environmental datasets.
+* Implementing robust **Statistical Modeling** to predict trends in energy consumption and market reliability.
 
 ---
 
