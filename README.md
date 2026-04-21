@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Farzan%20Momayezi&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Analytics%20%7C%20ML&descAlignY=58&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Farzan%20Momayezi&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Business%20Analyst%20%7C%20ML&descAlignY=58&descColor=8b949e" width="100%"/>
 
 </div>
 
@@ -13,7 +13,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%94%A7;Business+Intelligence+Developer+%F0%9F%93%8A;ML+%26+Statistical+Modeling+Enthusiast+%F0%9F%A4%96;Building+Pipelines+That+Actually+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%94%A7;Business+Analyst+%F0%9F%93%8A;ML+%26+Statistical+Modeling+Enthusiast+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,9 +24,9 @@
 ```python
 farzan = {
     "name"       : "Farzan Momayezi",
-    "role"       : "Data Engineer & BI Developer",
-    "focus"      : ["Data Pipelines", "Geospatial Analytics", "Predictive Modeling"],
-    "currently"  : "Building production-ready ETL pipelines & BI dashboards",
+    "role"       : "Data Scientist & Business Analyst",
+    "focus"      : ["Predictive Modeling", "Business Intelligence", "Geospatial Analytics"],
+    "currently"  : "Building ML models & interactive dashboards for business insights",
     "languages"  : ["Python", "R", "SQL", "Bash"],
     "philosophy" : "Data without context is noise. Context without data is opinion."
 }
@@ -60,7 +60,7 @@ farzan = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Farzan-lab&theme=github-dark-blue&hide_border=true&border_radius=10)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Farzan-lab&theme=github-dark-blue&hide_border=true&border_radius=10)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
 
