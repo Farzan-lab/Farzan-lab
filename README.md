@@ -1,57 +1,101 @@
-# 🚀 Welcome to my digital workspace! 
+<div align="center">
 
-**"Where complex data turns into actionable insights, and ideas transform into code."**
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Farzan%20Momayezi&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Analytics%20%7C%20ML&descAlignY=58&descColor=8b949e" width="100%"/>
 
-Hello World! 😃 👋 I'm **Farzan Momayezi**. 
-I am passionate about analyzing data, building predictive models, and creating interactive dashboards to solve real-world problems. Welcome to my GitHub profile, where I showcase my journey and projects in Data Science and Business Intelligence.
+</div>
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+```
+╔══════════════════════════════════════════════════════════╗
+║   Turning raw data into decisions. One pipeline at a time.  ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Farzan-lab&theme=radium&hide_border=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%94%A7;Business+Intelligence+Developer+%F0%9F%93%8A;ML+%26+Statistical+Modeling+Enthusiast+%F0%9F%A4%96;Building+Pipelines+That+Actually+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
-
-### 🛠️ Languages & Technologies
-
-Here are the tools and technologies I use to bring ideas to life:
-
-**Data Analysis & Visualization:**
-<br>
-[![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
-[![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
-[![](https://img.shields.io/badge/R_Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](#)
-[![](https://img.shields.io/badge/Leaflet-199903?style=for-the-badge&logo=leaflet&logoColor=white)](#)
-
-**Databases & Automation:**
-<br>
-[![](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
-[![](https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
-
-**Programming & Advanced Analytics:**
-<br>
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![](https://img.shields.io/badge/Statistical_Analysis-005A9C?style=for-the-badge&logo=r&logoColor=white)](#)
-[![](https://img.shields.io/badge/Statistical_Modeling-F37021?style=for-the-badge&logo=rstudio&logoColor=white)](#)
-[![](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
-[![](https://img.shields.io/badge/Deep_Learning-E34F26?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+</div>
 
 ---
 
-### 🌱 Currently Working On
+## 👤 About Me
 
-* Building **Ready-to-Job Data Pipelines** integrating Excel, BigQuery, and Power BI.
-* Developing interactive **R Shiny** & **Leaflet** dashboards for geospatial and infrastructure data.
-* Implementing robust **Statistical Modeling** to predict trends in energy consumption and market reliability.
+```python
+farzan = {
+    "name"       : "Farzan Momayezi",
+    "role"       : "Data Engineer & BI Developer",
+    "focus"      : ["Data Pipelines", "Geospatial Analytics", "Predictive Modeling"],
+    "currently"  : "Building production-ready ETL pipelines & BI dashboards",
+    "languages"  : ["Python", "R", "SQL", "Bash"],
+    "philosophy" : "Data without context is noise. Context without data is opinion."
+}
+```
 
 ---
 
-### 📫 Let's Connect!
+## 🛠️ Tech Stack
 
-Feel free to reach out for collaborations, project discussions, or just to say hi!
+### 📊 Analytics & Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R_Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199903?style=for-the-badge&logo=leaflet&logoColor=white)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzan-momayezi-3618aa206)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzanmomayezi@gmail.com)
+### 🗄️ Data Engineering & Cloud
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🤖 Machine Learning & Modeling
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-005A9C?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Farzan-lab&theme=github-dark-blue&hide_border=true&border_radius=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzan-lab&layout=compact&theme=github_dark&hide_border=true&border_radius=10)
+
+</div>
+
+---
+
+## 🔭 What I'm Building
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔁 **ETL Pipelines** | Production-ready data pipelines: Excel → BigQuery → Power BI | Python · BigQuery · Power BI |
+| 🗺️ **Geospatial Dashboards** | Interactive infrastructure & spatial analytics apps | R Shiny · Leaflet |
+| ⚡ **Energy Forecasting** | Statistical models for energy consumption & market reliability | R · Python · ML |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farzan-momayezi-3618aa206)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farzanmomayezi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farzan-lab)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+
+*Open to collaborations, freelance projects, and interesting data challenges.*
+
+</div>
