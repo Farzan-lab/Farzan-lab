@@ -60,11 +60,11 @@ farzan = {
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Farzan-lab&theme=github-dark-blue&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=Farzan-lab&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzan-lab&layout=compact&theme=github_dark&hide_border=true&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzan-lab&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 </div>
 
