@@ -7,11 +7,15 @@
 
 <div align="center">
 
+<div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   Turning raw data into decisions. One pipeline at a time.  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%94%A7;Business+Analyst+%F0%9F%93%8A;ML+%26+Statistical+Modeling+Enthusiast+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
