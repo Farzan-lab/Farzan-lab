@@ -62,9 +62,9 @@ farzan = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Farzan-lab&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farzan-lab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Farzan-lab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farzan-lab&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Farzan-lab&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farzan-lab&theme=tokyo-night&hide_border=true&radius=10)
 
